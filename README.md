@@ -4,9 +4,9 @@ In this study, Hepsiburada web application was tested with Katalon Studio.
 
 Tested scenarios:
 
-- The user registers with the application (Sign_Up).
+- The user registers with the application (Sign-Up).
 - The user logs into the application (Login).
-- The user adds a product to the cart (AddCart).
+- The user adds a product to the cart (Add_Cart).
   
 ![Adsız](https://github.com/ebrubeskaya/Katalon-Hepsiburada-WebTest/assets/127317035/e33dde7a-389a-4cef-b6d5-691b966cf778)
 ![Adsız1](https://github.com/ebrubeskaya/Katalon-Hepsiburada-WebTest/assets/127317035/452ebe39-0bb9-40a3-9af9-29ea6c1c07c0)
