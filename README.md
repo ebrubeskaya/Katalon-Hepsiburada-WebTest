@@ -1,4 +1,4 @@
-# Katalon Hepsiburada WebTest
+# Katalon Hepsiburada Web Test
 
 In this study, Hepsiburada web application was tested with Katalon Studio.
 
