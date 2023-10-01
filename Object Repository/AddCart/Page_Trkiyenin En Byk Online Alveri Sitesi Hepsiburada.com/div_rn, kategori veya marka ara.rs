@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_rn, kategori veya marka ara</name>
+   <tag></tag>
+   <elementGuidId>a40bb5f4-aa56-4030-96a8-fd3a92dfef8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Ürün, kategori veya marka ara']
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[placeholder='Ürün, kategori veya marka ara']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13eecb9e-6e7f-4064-ae52-eb4ba69ff9cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchBoxOld-M1esqHPyWSuRUjMCALPK</value>
+      <webElementGuid>f96bf3e0-6689-43c1-87e6-9550a88f6432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ürün, kategori veya marka ara</value>
+      <webElementGuid>ae568a35-067f-4ac4-b9e0-7224a6b05392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchBoxOld_41d5e06c-226a-49db-fe68-4787f00de5ef&quot;)/div[1]/div[@class=&quot;searchBoxOld-uKvVtLzPNdHp38hj3B13&quot;]/div[@class=&quot;searchBoxOld-M1esqHPyWSuRUjMCALPK&quot;]</value>
+      <webElementGuid>f160bd33-aa1b-43dd-b235-82c3e1f7fa89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SearchBoxOld_41d5e06c-226a-49db-fe68-4787f00de5ef']/div/div/div</value>
+      <webElementGuid>ef0e5e7f-2827-4fef-ac8c-a182cc38acf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Premium', &quot;'&quot;, 'u')])[1]/following::div[8]</value>
+      <webElementGuid>e191e70c-0664-4ab3-bda6-c71ac2933197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARA'])[1]/preceding::div[3]</value>
+      <webElementGuid>476e97ad-d2de-487b-93d7-9d3430a00eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>35e3c204-e95a-49b5-9846-417c562377a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ürün, kategori veya marka ara' or . = 'Ürün, kategori veya marka ara')]</value>
+      <webElementGuid>4520022e-72a5-41dc-998c-e7bffce2d0ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_concat(Premium, , u)_theme-IYtZzqYPto8PhOx3ku3c</name>
+   <tag></tag>
+   <elementGuidId>19b9b2d6-1b0a-4b92-ad44-bd4ca3332e4e</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Ürün, kategori veya marka ara']
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[placeholder='Ürün, kategori veya marka ara']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>97a85505-4233-4514-bd21-7d8b2a1572b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>10439ae0-0f9b-44a5-8987-32763e8975ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>e103eb28-6e00-4811-921d-74aea8bd492e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-autocomplete</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>d5217448-bcf8-437f-99f6-64e5aa13369c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>react-autowhatever-1</value>
+      <webElementGuid>6f29684b-da77-4313-ad67-ae243fb3275b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>theme-IYtZzqYPto8PhOx3ku3c theme-JOTHTAYrQhCBEf9bVgI8</value>
+      <webElementGuid>a0a801d9-6117-407c-b8ea-d28117189e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Ürün, kategori veya marka ara</value>
+      <webElementGuid>8f5ac5ee-0721-4f11-a25e-6db74211404f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchBoxOld_41d5e06c-226a-49db-fe68-4787f00de5ef&quot;)/div[1]/div[@class=&quot;searchBoxOld-uKvVtLzPNdHp38hj3B13 undefined&quot;]/div[@class=&quot;searchBoxOld-M1esqHPyWSuRUjMCALPK&quot;]/div[@class=&quot;theme-PWhtyMC28ov8fuPKvrog&quot;]/input[@class=&quot;theme-IYtZzqYPto8PhOx3ku3c theme-JOTHTAYrQhCBEf9bVgI8&quot;]</value>
+      <webElementGuid>ac1d51cf-777a-4955-9b50-d92407b84588</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>5fe8cbed-7234-4db9-99c3-fabc125f28f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SearchBoxOld_41d5e06c-226a-49db-fe68-4787f00de5ef']/div/div/div/div[2]/input</value>
+      <webElementGuid>3682acb0-580b-4767-a94b-2b31eaa65eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>9f51fc32-cab4-4243-8111-d579c863af94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Ürün, kategori veya marka ara']</value>
+      <webElementGuid>f0e67fb7-4bb6-462d-a815-57d44f9e9654</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
